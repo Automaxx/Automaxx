@@ -8,7 +8,7 @@ Senior Software Engineer at Tech Innovations Inc. based in San Francisco, CA.
 - 🌱 I'm currently exploring advanced distributed systems and performance optimization techniques.
 - 👯 I'm looking to collaborate on innovative full-stack projects and open source initiatives.
 - 💬 Ask me about JavaScript, React, Node.js, Python, and cloud architecture.
-- 📫 How to reach me: alex.developer@dontmail.com
+- 📫 How to reach me: aniruddhagayki0@gmail.com
 - ⚡ Fun fact: I once debugged a critical production issue while on a mountain hike, using just my phone!
 
 ## 🛠️ Languages and Tools
