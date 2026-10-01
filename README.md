@@ -30,9 +30,3 @@ Senior Software Engineer at Tech Innovations Inc. based in San Francisco, CA.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexdev&theme=tokyonight&hide_border=true)
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=alexdev&color=blueviolet&style=flat-square&label=Profile+Views)
